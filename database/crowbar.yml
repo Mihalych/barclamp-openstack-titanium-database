@@ -15,7 +15,7 @@
 #
 
 barclamp:
-  name: percona 
+  name: database
   display: Percona database
   version: 0
   member:
@@ -31,7 +31,7 @@ crowbar:
 locale_additions:
   en:
     barclamp:
-      percona:
+      database:
         edit_attributes:
           attributes: Attributes
         edit_deployment:
