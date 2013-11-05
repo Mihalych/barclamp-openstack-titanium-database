@@ -42,5 +42,5 @@ debs:
     # percona stuff
     - percona-xtradb-cluster-server-5.5
     - percona-xtradb-cluster-server
-
-
+    - percona-xtradb-cluster-client-5.5
+    - percona-xtradb-cluster-client
